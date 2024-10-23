@@ -31,7 +31,6 @@ This project was built using these technologies.
 - Express.js: Серверный фреймворк.
 - CSS3: Для стилизации.
 - React-Bootstrap: Для создания адаптивного пользовательского интерфейса.
-- Vercel: Платформа для развертывания приложения.
 
 ## Архитектура проекта
 
