@@ -23,14 +23,14 @@ function AboutCard() {
               <FcDataProtection/> Хакатон AstraLinux (РТУ МИРЭА, 2024)
             </li>
             <li className="about-activity">
-              <FcLock/> Технокубок (VK, 2021)
+              <FcLock/> Технокубок (VK 2021, Финалист)
             </li>
             <li className="about-activity">
-              <FcTreeStructure/> MTC Champ (MTC, 2024)
+              <FcTreeStructure/> MTC Champ (MTC 2024, Финалист)
             </li>
             <li className="about-activity">
               <FcGlobe/> Yandex Cup (Международный чемпионат
-              в направлении «Алгоритм», 2024)
+              в направлении «Алгоритм» 2024, Полуфиналист)
             </li>
           </ul>
 
