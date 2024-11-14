@@ -22,7 +22,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://oregona.promirea.ru/" target="_blank">oreg0na.Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://oregona.8xbyte.dev/" target="_blank">oreg0na.Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
