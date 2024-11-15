@@ -74,17 +74,6 @@ function Projects() {
               demoLink="https://platform.8xbyte.dev/projects"
             />
           </Col>
-
-          {/* <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={emotion}
-              isBlog={false}
-              title=""
-              ghLink=""
-                // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here
-              description=""
-            />
-          </Col> */}
         </Row>
       </Container>
     </Container>
