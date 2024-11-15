@@ -71,7 +71,7 @@ function Projects() {
               title="Проектная платформа РТУ МИРЭА"
               description="Реализация Web-приложения с витриной проектов/стартапов с возможность со стороны студента - присылать подробную информацию о проекте, а со стороны модерации - постинг данных проектов на главную страницу"
               ghLink=""
-              demoLink="https://platform.promirea.ru/projects"
+              demoLink="https://platform.8xbyte.dev/projects"
             />
           </Col>
 
