@@ -16,7 +16,7 @@ html {
   --imp-text-color: #c770f0;
   --img-place-text-color: #cd7f32;
 }
-
+/*  Color text */
 .purple {
   color: var(--imp-text-color) !important;
 }
