@@ -1,6 +1,6 @@
 <h2 align="center">
   oreg0na.Portfolio - v1.0<br/>
-  <a href="https://oregona.promirea.ru/" target="_blank">oreg0na</a>
+  <a href="https://oregona.8xbyte.dev/" target="_blank">oreg0na</a>
 </h2>
 <br/>
 
