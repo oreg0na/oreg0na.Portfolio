@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import {FcGlobe,FcTreeStructure,FcDataProtection,FcLock} from "react-icons/fc";
+import { FcFlashOn } from "react-icons/fc";
 
 function AboutCard() {
   return (
@@ -20,17 +20,20 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <FcDataProtection/> Хакатон AstraLinux (РТУ МИРЭА, 2024)
+              <FcFlashOn /> Хакатон AstraLinux (РТУ МИРЭА, 2024)
             </li>
             <li className="about-activity">
-              <FcLock/> Технокубок (VK 2021, Финалист)
+              <FcFlashOn /> Технокубок (VK 2021, Финалист)
             </li>
             <li className="about-activity">
-              <FcTreeStructure/> MTC Champ (MTC 2024, Финалист)
+              <FcFlashOn /> MTC Champ (MTC 2024, Финалист)
             </li>
             <li className="about-activity">
-              <FcGlobe/> Yandex Cup (Международный чемпионат
+              <FcFlashOn /> Yandex Cup (Международный чемпионат
               в направлении «Алгоритм» 2024, Полуфиналист)
+            </li>
+            <li className="about-activity">
+              <FcFlashOn /> Хакатон 1C (РТУ МИРЭА, 2024, <span className="bronze">3 место</span>)
             </li>
           </ul>
 
