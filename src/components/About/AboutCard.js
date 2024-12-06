@@ -35,6 +35,9 @@ function AboutCard() {
             <li className="about-activity">
               <FcFlashOn /> Хакатон 1C (РТУ МИРЭА, 2024, <span className="bronze">3 место</span>)
             </li>
+            <li className="about-activity">
+              <FcFlashOn /> Олимпиада по программированию 1С (2024)
+            </li>
           </ul>
 
           <p style={{color: "rgb(155 126 172)"}}>
