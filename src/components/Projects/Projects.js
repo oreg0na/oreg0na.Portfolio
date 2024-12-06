@@ -7,6 +7,7 @@ import ocompilers from "../../Assets/Projects/ocompilers.jpg";
 import iqj from "../../Assets/Projects/iqj.jpg";
 import damid from "../../Assets/Projects/damid.png";
 import platform from "../../Assets/Projects/platform.png";
+import iptip_dod from "../../Assets/Projects/iptip_dod.png"
 
 function Projects() {
   return (
@@ -73,6 +74,16 @@ function Projects() {
               ghLink=""
               demoLink="https://platform.8xbyte.dev/projects"
             />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+            imgPath={iptip_dod}
+            isBlog={false}
+            title="Информационная платформа для дня открытых дверей ИПТИП"
+            description="Реализован лендинг для 55-и дюймового интерактивного экрана. Сайт содержит в себе профориентационный тест, все направления института ИПТИП, а также их подробное описание"
+            ghLink="https://github.com/8xbyte/iptip_web"
+            demoLink="https://iptip.8xbyte.dev"/>
           </Col>
         </Row>
       </Container>
